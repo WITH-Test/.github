@@ -1,0 +1,14 @@
+{
+    "name": "DogeOps: Python",
+    "description": "DogeOps CI starter workflow.",
+    "iconName": "starter-python",
+    "categories": [
+        "Python"
+    ],
+    "filePatterns": [
+        "requirements.(txt|in)$",
+        "^pyproject.toml$",
+        "^poetry.lock$",
+        ".*\\.md$"
+    ]
+}
